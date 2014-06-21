@@ -27,16 +27,12 @@ the provided data set.  These column variables are in the following order:
  
 The following are the mean and standard deviation of the accelerometer data X, Y, and Z
 coordinates for the individual.  The units are in g.  
+
 3. tBodyAcc.mean.X
-
 4. tBodyAcc.mean.Y
-
 5. tBodyAcc.mean.Z
-
 6. tBodyAcc.std.X
-
 7. tBodyAcc.std.Y
-
 8. tBodyAcc.std.Z
 
 The following are the mean and standard deviation of the accelerometer data X, Y, and Z
